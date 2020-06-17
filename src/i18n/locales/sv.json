@@ -5,7 +5,7 @@
   "changeserver.headline": "Byt server",
   "changeserver.label": "Server",
   "changeserver.submit": "Skicka",
-  "changeserver.urlError": "Enter a valid URL",
+  "changeserver.urlError": "Ange en giltig URL",
   "changeserver.warning": "Extra settings offered by Ferdi will not be saved",
   "connectionLostBanner.cta": "Ladda om tjänst",
   "connectionLostBanner.informationLink": "What happened?",
