@@ -298,7 +298,7 @@
   "settings.app.form.hibernateOnStartup": "Mantieni i servizi in ibernazione all'avvio",
   "settings.app.form.hibernationStrategy": "Strategia di ibernazione",
   "settings.app.form.iconSize": "Dimensione icone servizi",
-  "settings.app.form.inactivityLock": "Lock after inactivity",
+  "settings.app.form.inactivityLock": "Blocca dopo inattività",
   "settings.app.form.keepAllWorkspacesLoaded": "Mantieni tutti i workspace caricati",
   "settings.app.form.language": "Lingua",
   "settings.app.form.lockPassword": "Password",
